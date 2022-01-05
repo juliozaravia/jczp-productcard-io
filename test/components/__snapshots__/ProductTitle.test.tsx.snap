@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle It should show the component correctly 1`] = `
+<span
+  className="styles-module_productDescription__Ariub undefined"
+>
+  Custom product
+</span>
+`;
+
+exports[`ProductTitle It should show the component with the product name 1`] = `
+<div
+  className="styles-module_productCard__oaIVo undefined"
+>
+  <span
+    className="styles-module_productDescription__Ariub undefined"
+  >
+    Coffee Mug - No image
+  </span>
+</div>
+`;
